@@ -1,0 +1,25 @@
+{
+  "dataStudio": {
+    "name": "tawk.to Data Source",
+    "logoUrl": "https://www.afdeling18.dk/media/59325/afd18dk-45x45.png",
+    "company": "Afdeling18.dk",
+    "companyUrl": "https://www.afdeling18.dk/",
+    "addonUrl": "https://github.com/googledatastudio/community-connectors/blob/master/JSON-connect/README.md",
+    "supportUrl": "https://github.com/googledatastudio/community-connectors/issues/new?title=JSON%20Connect%20Connector%20Issue",
+    "shortDescription": "Connect to the tawk.to API to collect metrics",
+    "description": "Based on the Free JSON connector. Fetch data from any JSON data source by URL. Use caching to speed up rendering.",
+    "sources": [
+      "CUSTOM_JSON"
+    ],
+    "authType": [
+      "NONE"
+    ],
+    "feeType": [
+      "FREE"
+    ]
+  },
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "MYSELF"
+  }
+}
